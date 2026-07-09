@@ -36,3 +36,12 @@ El estado de California incorpora mecanismos propios para la protección de dato
 | **Base** | Dignidad e intimidad personal | Relación comercial |
 | **Autoridad reguladora** | Sí, a nivel europeo | Limitada, por estado |
 | **Alcance geográfico** | Toda la UE | Solo California |
+
+---
+
+## Referencias
+
+*Sobre la CCPA y su comparación con el GDPR (disponibles en [Links.md](Links.md)):*
+
+- [California: la ley de privacidad más estricta de EE.UU. — CNN en Español](https://cnnespanol.cnn.com/2018/06/30/california-ley-privacidad-internet-estricta-estados-unidos/)
+- [Comparativa GDPR vs. CCPA (PDF) — Future of Privacy Forum](https://fpf.org/wp-content/uploads/2018/11/GDPR_CCPA_Comparison-Guide.pdf)

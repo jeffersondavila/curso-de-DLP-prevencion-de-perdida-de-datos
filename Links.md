@@ -26,6 +26,7 @@
 - [OWASP Top 10 2017 — en Español (PDF)](https://wiki.owasp.org/images/5/5e/OWASP-Top-10-2017-es.pdf)
 - [Matriz de Prueba DLP — plantilla (Google Drive)](https://drive.google.com/file/d/1ybColdvBURQrIWMzTM_5nM3foWSRtmrr/view)
 - [Gestión del riesgo y evaluación de impacto en tratamientos de datos personales — AEPD (PDF)](https://www.aepd.es/guias/gestion-riesgo-y-evaluacion-impacto-en-tratamientos-datos-personales.pdf)
+- [Anonimización, disociación y agregación de datos — CEPAL](https://biblioguias.cepal.org/c.php?g=495473&p=4961125)
 
 ## Estándares y Marcos de Referencia
 

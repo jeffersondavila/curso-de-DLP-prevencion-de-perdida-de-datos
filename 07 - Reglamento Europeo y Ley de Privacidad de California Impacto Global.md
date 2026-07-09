@@ -49,3 +49,12 @@ El GDPR ha sido un catalizador para que otros países adopten regulaciones simil
 - **Colombia** — Implementa evaluaciones obligatorias de impacto de privacidad y registros de bases de datos
 - **California (EE.UU.)** — Adoptó leyes de privacidad similares (CCPA)
 - **Latinoamérica** — Tendencia creciente hacia estándares internacionales de protección de datos
+
+---
+
+## Referencias
+
+*Sobre el GDPR (disponibles en [Links.md](Links.md)):*
+
+- [GDPR — Reglas para empresas y organizaciones (Comisión Europea)](https://commission.europa.eu/law/law-topic/data-protection/rules-business-and-organisations_es)
+- [¿Qué es el GDPR? — gdpr.eu](https://gdpr.eu/what-is-gdpr/)

@@ -30,3 +30,14 @@
 6. Calificación y evaluación de controles
 7. Gestión y tratamiento del riesgo
 8. Seguimiento
+
+---
+
+## Referencias
+
+*Estándares y metodologías de gestión de riesgos (disponibles en [Links.md](Links.md)):*
+
+- [ISO 31000:2018 — Gestión del Riesgo](https://www.iso.org/obp/ui#iso:std:iso:31000:ed-2:v1:es)
+- [MAGERIT v3 — Catálogo de Elementos (CCN-CERT)](https://pilar.ccn-cert.cni.es/docman/documentos/2-magerit-v3-libro-ii-catalogo-de-elementos/file)
+- [MAGERIT — Metodología de Análisis y Gestión de Riesgos (PAE)](https://administracionelectronica.gob.es/pae_Home/pae_Documentacion/pae_Metodolog/pae_Magerit.html#.XRoqwehKjIU)
+- [OCTAVE Allegro — Improving the Information Security Risk Assessment Process (SEI, Carnegie Mellon)](https://www.sei.cmu.edu/library/introducing-octave-allegro-improving-the-information-security-risk-assessment-process/)

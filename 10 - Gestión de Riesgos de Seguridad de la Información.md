@@ -65,3 +65,12 @@ Una vez identificados los riesgos, se procede a su **valoración** para definir 
 
 - CCN-CERT
 - OWASP
+
+---
+
+## Referencias
+
+*Metodologías de referencia (disponibles en [Links.md](Links.md)):*
+
+- [OWASP Top 10 2017 — en Español (PDF)](https://wiki.owasp.org/images/5/5e/OWASP-Top-10-2017-es.pdf)
+- [MAGERIT v3 — Catálogo de Elementos (CCN-CERT)](https://pilar.ccn-cert.cni.es/docman/documentos/2-magerit-v3-libro-ii-catalogo-de-elementos/file)
