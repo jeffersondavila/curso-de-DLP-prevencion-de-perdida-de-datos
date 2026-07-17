@@ -31,6 +31,7 @@
 - [Incidentes de Seguridad y Protección de Datos — SIC (PDF)](https://www.sic.gov.co/sites/default/files/files/5to_Congreso_de_Proteccion_de_Datos/incidentes-de-seguridad-proteccion-datos.pdf)
 - [Análisis forense: cadena de custodia de la evidencia digital — Security Art Work](https://www.securityartwork.es/2016/02/10/analisis-forense-cadena-de-custodia-de-la-evidencia-digital/)
 - [La cadena de custodia en evidencias digitales — Ámbito Jurídico](https://www.ambitojuridico.com/noticias/tecnologia/tic/la-cadena-de-custodia-en-evidencias-digitales)
+- [Cyber Resiliency Engineering Framework — MITRE (PDF)](https://www.mitre.org/sites/default/files/publications/13-4047.pdf)
 
 ## Estándares y Marcos de Referencia
 
