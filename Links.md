@@ -32,6 +32,17 @@
 - [Análisis forense: cadena de custodia de la evidencia digital — Security Art Work](https://www.securityartwork.es/2016/02/10/analisis-forense-cadena-de-custodia-de-la-evidencia-digital/)
 - [La cadena de custodia en evidencias digitales — Ámbito Jurídico](https://www.ambitojuridico.com/noticias/tecnologia/tic/la-cadena-de-custodia-en-evidencias-digitales)
 - [Cyber Resiliency Engineering Framework — MITRE (PDF)](https://www.mitre.org/sites/default/files/publications/13-4047.pdf)
+- [Instituto Nacional de Ciberseguridad de España (INCIBE)](https://www.incibe.es/)
+
+## Soluciones DLP (Proveedores)
+
+- [Best Data Loss Prevention — TechRadar](https://www.techradar.com/best/best-data-loss-prevention)
+- [Symantec DLP — Broadcom](https://www.broadcom.com/products/cybersecurity/information-protection/data-loss-prevention)
+- [McAfee](https://www.mcafee.com/?csrc=vanity)
+- [Check Point Data Loss Prevention](https://www.checkpoint.com/quantum/data-loss-prevention/)
+- [Digital Guardian Endpoint DLP — Fortra](https://www.fortra.com/platform/data-loss-prevention/endpoint-dlp)
+- [DLP Reviews — Gartner](https://www.gartner.com/reviews/market/data-loss-prevention)
+- [SearchInform DLP](https://es.searchinform.com/products/dlp/)
 
 ## Estándares y Marcos de Referencia
 
